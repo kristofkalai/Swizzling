@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swizzling",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stateman92/Swizzling",
+      "state" : {
+        "revision" : "219fee2453342c4d55fdc952352a1df71f56b1be",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
